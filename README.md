@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://gitverse.ru/vdenezhnev/gspreadsheet.git
+   git clone https://github.com/vdenejhnev/gspreadsheet.git
    cd gspreadsheet
 2. Установите зависимости с помощью Composer:
     ```bash
