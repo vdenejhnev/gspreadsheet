@@ -1,0 +1,20 @@
+{
+    "name": "vdenezhnev/gspreadsheet",
+    "description": "Library for working with Google Spreadsheets using Service Account Credentials.",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "vdenezhnev"
+        }
+    ],
+    "require": {
+        "php": ">=6.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "GSpreadSheet\\": "src/"
+        }
+    }
+}
